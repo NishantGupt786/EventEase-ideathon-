@@ -6,6 +6,9 @@ Please note that this is only a static website made plainly through HTML and CSS
 
 
 
+Please view the website on laptop.
+
+
 
 Thank you for reviewing our project.
 
